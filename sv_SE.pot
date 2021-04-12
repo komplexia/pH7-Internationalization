@@ -16591,16 +16591,16 @@ msgstr ""
 
 #: _protected/app/system/modules/webcam/views/base/tpl/webcam/picture.tpl:8
 msgid "Shoot!"
-msgstr ""
+msgstr "Ta ett kort!"
 
 #: _protected/app/system/modules/webcam/views/base/tpl/webcam/picture.tpl:11
 msgid "Upload!"
-msgstr ""
+msgstr "Ladda upp!"
 
 #: _protected/app/system/modules/xml/views/base/tpl/blog.rss.xml.tpl:7
 #: _protected/app/system/modules/xml/views/base/tpl/comment.inc.rss.xml.tpl:7
 msgid "Latest Blog Posts %site_name%"
-msgstr ""
+msgstr "Senast Blogginlägg %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/comment.inc.rss.xml.tpl:5
 msgid "Latest %0% Comments"
@@ -16612,83 +16612,83 @@ msgstr ""
 
 #: _protected/app/system/modules/xml/views/base/tpl/forum-post.rss.xml.tpl:5
 msgid "Latest Forum Topic Posts"
-msgstr ""
+msgstr "Senaste Inlägg i detta Forumämne"
 
 #: _protected/app/system/modules/xml/views/base/tpl/forum-post.rss.xml.tpl:7
 msgid "Latest Forum Topic Posts of %site_name%"
-msgstr ""
+msgstr "Senaste Inläggen i detta Forumämne %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/forum-topic.rss.xml.tpl:7
 msgid "Latest Forum Topics of %site_name%"
-msgstr ""
+msgstr "Senaste forumämnen %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/layout.xsl.tpl:14
 msgid "XML Sitemap - %site_name%"
-msgstr ""
+msgstr "XML Sidkarta - %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/layout.xsl.tpl:25
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: _protected/app/system/modules/xml/views/base/tpl/layout.xsl.tpl:26
 msgid "Priority"
-msgstr ""
+msgstr "Prioritet"
 
 #: _protected/app/system/modules/xml/views/base/tpl/layout.xsl.tpl:27
 msgid "Change Frequency"
-msgstr ""
+msgstr "Ändra Frekvens"
 
 #: _protected/app/system/modules/xml/views/base/tpl/layout.xsl.tpl:28
 msgid "Last Change (UTC)"
-msgstr ""
+msgstr "Senaste ändringen (UTC)"
 
 #: _protected/app/system/modules/xml/views/base/tpl/links.xml.tpl:11
 msgid "Discussion Forums"
-msgstr ""
+msgstr "Disskussionsforum"
 
 #: _protected/app/system/modules/xml/views/base/tpl/links.xml.tpl:19
 msgid "Videos Movie"
-msgstr ""
+msgstr "Videofilmer"
 
 #: _protected/app/system/modules/xml/views/base/tpl/links.xml.tpl:27
 msgid "Free Chatroulette Speed Dating"
-msgstr ""
+msgstr "Gratis Chatroulette Speed Dating"
 
 #: _protected/app/system/modules/xml/views/base/tpl/links.xml.tpl:43
 msgid "User Birthday"
-msgstr ""
+msgstr "Användarens Födelsedag"
 
 #: _protected/app/system/modules/xml/views/base/tpl/links.xml.tpl:52
 msgid "Share %site_name%"
-msgstr ""
+msgstr "Dela %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/links.xml.tpl:59
 msgid "XML Site Map"
-msgstr ""
+msgstr "XML Sidkarta"
 
 #: _protected/app/system/modules/xml/views/base/tpl/note.rss.xml.tpl:7
 msgid "Latest Notes %site_name%"
-msgstr ""
+msgstr "Senaste noteringar %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/rss/index.tpl:14
 msgid "No RSS Feed found at %site_name%"
-msgstr ""
+msgstr "Inget RSS-flöde hittades på %site_name%"
 
 #: _protected/app/system/modules/xml/views/base/tpl/rss_links.xml.tpl:13
 msgid "Forum Topics"
-msgstr ""
+msgstr "Forumämnen"
 
 #: _protected/app/system/modules/xml/views/base/tpl/rss_links.xml.tpl:27
 msgid "Picture Comments"
-msgstr ""
+msgstr "Bildkommentarer"
 
 #: _protected/app/system/modules/xml/views/base/tpl/sitemap/index.tpl:13
 msgid "Oops! No links to display. Come back later ;)"
-msgstr ""
+msgstr "Oj! Inga länkar att visas. Kom tillbaka senare ;)"
 
 #: _protected/framework/Layout/Tpl/Engine/PH7Tpl/Syntax/Curly.class.php:256
 msgid "([^\{\}]+)"
-msgstr ""
+msgstr "([^\{\}]+)"
 
 #: _repository/module/fake-admin-panel/install/info/in_conclusion.php:19
 #: _repository/module/fake-admin-panel/install/info/un_conclusion.php:19
@@ -16702,11 +16702,11 @@ msgstr ""
 
 #: _repository/module/fake-admin-panel/install/info/in_conclusion.php:27
 msgid "Universal Login Config"
-msgstr ""
+msgstr "Universal Loginkonfiguration"
 
 #: _repository/module/fake-admin-panel/views/base/tpl/admin/index.tpl:4
 msgid "See the log files"
-msgstr ""
+msgstr "Kolla loggfilerna"
 
 #: _tests/Unit/Framework/Layout/Tpl/Engine/PH7Tpl/Syntax/fixtures/input/curly/lang-inline.curly.tpl:1
 msgid "Bonjour"
@@ -16718,7 +16718,7 @@ msgstr ""
 
 #: _tests/Unit/Framework/Translate/LangTest.php:25
 msgid "Hello %0%"
-msgstr ""
+msgstr "Hej %0%"
 
 #: templates/themes/base/tpl/top_menu.inc.tpl:264
 msgid "Generate Bulk Members (without profile photos)"
@@ -16738,31 +16738,34 @@ msgstr ""
 
 #: templates/themes/base/tpl/top_menu.inc.tpl:385
 msgid "SMS Gateway Verification APIs"
-msgstr ""
+msgstr "API:er för SMS Gateway Verifikation"
 
 #: templates/themes/base/tpl/top_menu.inc.tpl:471
 msgid "HELP"
-msgstr ""
+msgstr "Hjälp"
 
 #: _protected/app/system/core/forms/DeleteUserCoreForm.php:42
 msgid "My email address has changed."
-msgstr ""
+msgstr "Min e-postadress har ändrats."
 
 #: _protected/app/system/modules/admin123/views/base/tpl/main/news.inc.tpl:2
 msgid "Latest <a href=\"%software_website%\" title=\"%software_name%\">pH7CMS "
 "Software</a>\'s News"
-msgstr ""
+msgstr "Senaste nyheterna för <a href=\"%software_website%\" title=\"%software_name%\">pH7CMS "
+"Mjukavara</a>"
 
 #: _protected/app/system/modules/two-factor-auth/controllers/MainController.php:121
 msgid "Generated on: %0%"
-msgstr ""
+msgstr "Skapades vid: %0%"
 
 #: _protected/app/system/modules/user/forms/EditForm.php:66
 msgid "For security reasons, you cannot change your nickname."
-msgstr ""
+msgstr "Av säkerhetsskäl, kan du inte ändra ditt smeknamn."
 
 #: _protected/app/system/modules/user/forms/EditForm.php:68
 msgid "For security reasons and to avoid spam, you cannot change your email "
 "address. If it has changed, you will need to <a href=\"%0%\">delete</a> your "
 "account and create a new one."
-msgstr ""
+msgstr "Av säkerhetsskäl och för att undvika spam, kan du inte ändra din e-postadress. "
+"Om den har ändrats, måste du <a href=\"%0%\">radera</a> ditt "
+"konto och skapa ett nytt."
